@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PizarriaSys\PizarriaSys\bin\Debug\PizarriaSysAcessoDados.dll.config
+C:\Users\User\source\repos\PizarriaSys\PizarriaSys\bin\Debug\PizarriaSysAcessoDados.dll
+C:\Users\User\source\repos\PizarriaSys\PizarriaSys\bin\Debug\PizarriaSysAcessoDados.pdb
+C:\Users\User\source\repos\PizarriaSys\PizarriaSys\obj\Debug\PizarriaSys.AcessoDados.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PizarriaSys\PizarriaSys\obj\Debug\PizarriaSys.AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PizarriaSys\PizarriaSys\obj\Debug\PizarriaSysAcessoDados.dll
+C:\Users\User\source\repos\PizarriaSys\PizarriaSys\obj\Debug\PizarriaSysAcessoDados.pdb

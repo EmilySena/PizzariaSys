@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PizarriaSys\PizzariaDominio\bin\Debug\PizzariaDominio.dll
+C:\Users\User\source\repos\PizarriaSys\PizzariaDominio\bin\Debug\PizzariaDominio.pdb
+C:\Users\User\source\repos\PizarriaSys\PizzariaDominio\bin\Debug\PizarriaSysAcessoDados.dll
+C:\Users\User\source\repos\PizarriaSys\PizzariaDominio\bin\Debug\PizarriaSysAcessoDados.pdb
+C:\Users\User\source\repos\PizarriaSys\PizzariaDominio\bin\Debug\PizarriaSysAcessoDados.dll.config
+C:\Users\User\source\repos\PizarriaSys\PizzariaDominio\obj\Debug\Pizzaria.Dominio.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PizarriaSys\PizzariaDominio\obj\Debug\Pizzaria.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PizarriaSys\PizzariaDominio\obj\Debug\Pizzaria.Dominio.csproj.CopyComplete
+C:\Users\User\source\repos\PizarriaSys\PizzariaDominio\obj\Debug\PizzariaDominio.dll
+C:\Users\User\source\repos\PizarriaSys\PizzariaDominio\obj\Debug\PizzariaDominio.pdb

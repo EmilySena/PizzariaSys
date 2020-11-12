@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\PizarriaSys\pizzariaSys.WindowsForm\bin\Debug\pizzariaSys.WindowsForm.exe.config
+C:\Users\User\source\repos\PizarriaSys\pizzariaSys.WindowsForm\bin\Debug\pizzariaSys.WindowsForm.exe
+C:\Users\User\source\repos\PizarriaSys\pizzariaSys.WindowsForm\bin\Debug\pizzariaSys.WindowsForm.pdb
+C:\Users\User\source\repos\PizarriaSys\pizzariaSys.WindowsForm\obj\Debug\pizzariaSys.WindowsForm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PizarriaSys\pizzariaSys.WindowsForm\obj\Debug\pizzariaSys.WindowsForm.Properties.Resources.resources
+C:\Users\User\source\repos\PizarriaSys\pizzariaSys.WindowsForm\obj\Debug\pizzariaSys.WindowsForm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PizarriaSys\pizzariaSys.WindowsForm\obj\Debug\pizzariaSys.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PizarriaSys\pizzariaSys.WindowsForm\obj\Debug\pizzariaSys.WindowsForm.exe
+C:\Users\User\source\repos\PizarriaSys\pizzariaSys.WindowsForm\obj\Debug\pizzariaSys.WindowsForm.pdb
